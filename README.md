@@ -1,5 +1,5 @@
-JSON Script for policies:
-
+## JSON Script for policies:
+```json
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -21,3 +21,4 @@ JSON Script for policies:
         }
     ]
 }
+```

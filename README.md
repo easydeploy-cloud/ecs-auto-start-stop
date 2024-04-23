@@ -63,3 +63,15 @@ def lambda_handler(event, context):
         'body': message
     }
 ```
+## JSON text for ECS start event rule
+```
+{
+  "action": "start"
+}
+```
+## JSON text for ECS stop event rule
+```
+{
+  "action": "stop"
+}
+```
